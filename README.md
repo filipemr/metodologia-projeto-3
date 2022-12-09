@@ -1,4 +1,4 @@
-# Projeto 2 - Metodologia científica
+# Projeto 3 - Metodologia científica
 
 ## Descrição
 Nessa tarefa, você vai criar um Jupyter notebook para rodar testes estatísticos nos dois datasets de exemplo em anexo. Instruções para submissão da resposta estão no formulário.
